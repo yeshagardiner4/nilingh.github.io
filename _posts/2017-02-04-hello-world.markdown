@@ -17,6 +17,7 @@ categories: stackedit
 老友记第一集里，当Rachell终于决心把信用卡一张张剪断后，Monica对她说
 
 > Welcome to the real world!
+>
 > It sucks, but you gonna love it.
 
 我现在就是这么个感觉

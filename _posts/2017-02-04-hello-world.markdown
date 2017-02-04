@@ -11,7 +11,7 @@ categories: stackedit
 
 听马云说他不爱钱，刘强东说自己脸盲看谁都一样，这么说来成功人生只能是一场美丽的意外。想想自己猪肉都已经剁过了却还是文不能测字，武不能防身，不由背上冒冷汗。心想将来儿女问起爸爸钱重不重要的时候，如何回答是好？
 
-有一个Ted演讲[The Great XX Experiment](http://player.youku.com/player.php/sid/XOTIxNzM5MTMy/v.swf)提起网络色情成瘾的男子会自动放弃这一嗜好的原因就是担心自己ED，这个例子完美诠释了当青春流逝时人们心中的那份不舍。
+有一个Ted演讲[The Great XX Experiment](http://player.youku.com/embed/XOTIxNzM5MTMy)提起网络色情成瘾的男子会自动放弃这一嗜好的原因就是担心自己ED，这个例子完美诠释了当青春流逝时人们心中的那份不舍。
 
 温室外的世界如此之大，以至于有些博文中提到的每个名词都需要去搜索一下，有时竟忘记了最初要查的内容，然而毕竟还是安全的上路了。
 

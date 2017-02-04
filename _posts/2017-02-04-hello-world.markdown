@@ -5,7 +5,6 @@ date:   2017-02-04 14:47:00 +0800
 categories: stackedit 
 ---
 
-#Hello World!
 
 毕业了在国企浑浑噩噩10年，好像温室里的花朵，窗外冷暖不知，只在一个看似热闹的小天地里度日。外面世界早已风起云涌，10年里猪都不知飞上天了几回。
 
@@ -15,7 +14,8 @@ categories: stackedit
 
 温室外的世界如此之大，以至于有些博文中提到的每个名词都需要去搜索一下，有时竟忘记了最初要查的内容，然而毕竟还是安全的上路了。
 
-老友记第一集里，当Rachell终于决心把信用卡一张张剪了后，Monica对她说过
+老友记第一集里，当Rachell终于决心把信用卡一张张剪断后，Monica对她说
+
 > Welcome to the real world!
 > It sucks, but you gonna love it.
 

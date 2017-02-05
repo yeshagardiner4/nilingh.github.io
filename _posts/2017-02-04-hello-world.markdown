@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello World!"
 date:   2017-02-04 14:47:00 +0800
-categories: stackedit 
+categories: blog 随笔 
 ---
 
 
@@ -21,5 +21,7 @@ categories: stackedit
 > It sucks, but you gonna love it.
 
 我现在就是这么个感觉
+
+
 
 > Written with [StackEdit](https://stackedit.io/).

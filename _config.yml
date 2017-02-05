@@ -17,7 +17,7 @@ title: Neil的网络日志
 email: nil621@gmail.com
 description: > # this means to ignore newlines unitil "baseurl:"
   只是想和这个世界留下一些交集 
-baseurl: "/nilingh.github.io" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://nilingh.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  nilingh

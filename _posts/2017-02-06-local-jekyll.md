@@ -9,9 +9,6 @@ categories: blog dev
 
 jekyll官网上的安装过程比较简单，我的mac之前没有配置过Ruby环境，所以安装和运行<kbd>jekyll server</kbd>的时候走了不少弯路，最后是通过<kbd>bundle install</kbd>来自动安装各种包后成功运行。
 
-----------
-
-
 网上安装过程的文章很多，但每个人实际情况有差别，主机环境不同，个人知识面也是一个很大的因素。我自己之前没有接触过ruby，在安装过程中才了解到brew，rvm，gem，bundler这些工具。由于ruby牵涉到环境参数，包之间的依赖等，所以简单复制别人的命令可能会把自己机器的环境弄乱。建议后来的同学先浏览一下[git官网帮助文档](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)，事后看来还是写的很清楚的，使用bundler安装，jekyll官网是使用gem安装的。
 
 下面是一些参考步骤：

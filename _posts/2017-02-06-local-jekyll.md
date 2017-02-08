@@ -20,7 +20,7 @@ jekyll官网上的安装过程比较简单，我的mac之前没有配置过Ruby�
 
 最后运行<kbd>jekyll server</kbd>，在浏览器中访问http://127.0.0.1:4000，祝大家使用愉快。
 
-
+再附上一篇后来发现的好文章[48 个你需要知道的 Jekyll 使用技巧](https://crispgm.com/page/48-tips-for-jekyll-you-should-know.html)
 
 > Written with [StackEdit](https://stackedit.io/).
 
